@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Barracuda", "Unity.Barracuda.csproj", "{912de356-7cfc-2455-698d-90c19d542b27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Barracuda.ONNX", "Unity.Barracuda.ONNX.csproj", "{56f19ba8-c608-5399-62c2-912a8ed06e88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{45c7c7ef-174e-f328-674c-6e4022d3ff4b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Barracuda.BurstBLAS", "Unity.Barracuda.BurstBLAS.csproj", "{7ae7f683-84de-3275-6513-2c53110470e1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Barracuda.iOSBLAS", "Unity.Barracuda.iOSBLAS.csproj", "{6917110e-1ca8-14d9-7320-efdb5e0ed970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Barracuda.MacBLAS", "Unity.Barracuda.MacBLAS.csproj", "{b31d9a6e-4d5e-f054-e00f-33b1d8b9b677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Barracuda.Editor", "Unity.Barracuda.Editor.csproj", "{314f4724-57c9-fda5-5673-4e4a89bd88d9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{912de356-7cfc-2455-698d-90c19d542b27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912de356-7cfc-2455-698d-90c19d542b27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56f19ba8-c608-5399-62c2-912a8ed06e88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56f19ba8-c608-5399-62c2-912a8ed06e88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45c7c7ef-174e-f328-674c-6e4022d3ff4b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45c7c7ef-174e-f328-674c-6e4022d3ff4b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ae7f683-84de-3275-6513-2c53110470e1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ae7f683-84de-3275-6513-2c53110470e1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6917110e-1ca8-14d9-7320-efdb5e0ed970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6917110e-1ca8-14d9-7320-efdb5e0ed970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b31d9a6e-4d5e-f054-e00f-33b1d8b9b677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b31d9a6e-4d5e-f054-e00f-33b1d8b9b677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314f4724-57c9-fda5-5673-4e4a89bd88d9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314f4724-57c9-fda5-5673-4e4a89bd88d9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
